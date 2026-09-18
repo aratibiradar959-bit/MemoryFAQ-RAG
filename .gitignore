@@ -25,3 +25,5 @@ data/qdrant/
 # OS files
 .DS_Store
 Thumbs.db
+# Project ZIP
+MemoryFAQ-RAG.zip
